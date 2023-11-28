@@ -1,0 +1,15 @@
+.main{
+	 width:500px;
+	 height:300px;
+	 text-align:center;
+	 margin:0 auto;
+	 margin-top:150px;
+	 border-radius:4px;
+	 background-color:rgba(52,73,94,0.7);
+}
+.form-input:nth-child(2)::before{
+    content: "\f064";
+}
+.form-input:nth-child(3)::before{
+    content: "\f023";
+}
